@@ -29,6 +29,10 @@ python -m venv venv
 ```bash
 source venv/bin/activate
 ```
+### Instale as dependências
+```bash
+pip install -r requirements.txt
+```
 ### rode o arquivo challenge
 ```bash
 python challenge.py
