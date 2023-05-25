@@ -1,6 +1,6 @@
 # Introducao-ao-Numpy
 ## Pequeno caso de estudos de introdução em Python à biblioteca Numpy
-Em cada arquivo é possível encontrar conteúdo introdutório e comentado sobre Arrays
+Em cada arquivo é possível encontrar conteúdo introdutório e comentado em algum tópico numpy
 
 ## Desafio
 O resultado da função 'customArray' deve produzir um array Bidimensional parecido exemplo abaixo; <br>
