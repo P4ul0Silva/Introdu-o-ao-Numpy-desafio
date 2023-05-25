@@ -1,0 +1,20 @@
+
+1 - What is numpy?
+    Multidimensional array library
+
+2 - Why use numpy?
+    - because is faster than Lists. 
+    - It uses Fixed Types, and less bytes of memory.
+    - it doesn't do type checking when iterating.
+    - Utilizes continuous memory.
+    - Lists scatters information in blocks of memory apart from another whereas NumPy use Contiguous Memory where all blocks are next to eachother.  
+    - Utilizes CPU SIMD ( Single Instruction Multiple Data ) Vector processing, for adding multiple values at one time, Efectivelly using Cache.
+
+3 - Differences between Lists and numpy
+Lists:
+Insertion, deletion, appending, concatenation, etc...
+
+NumPy: 
+Same, but with extra funcionalities.
+
+
