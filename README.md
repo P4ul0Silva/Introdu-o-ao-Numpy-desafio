@@ -6,6 +6,7 @@ Em cada arquivo é possível encontrar conteúdo introdutório e comentado sobre
 O resultado da função 'customArray' deve produzir um array Bidimensional parecido exemplo abaixo; <br>
 A função também funciona com arrays maiores do que 5x5 sendo possível qualquer tamanho; <br>
 Desde que seja um quadrado <br>
+ps: a solução do desafio é de longe a melhor de todas, mas foi divertido fazer;
 5x5 <br>
 ![image](https://github.com/P4ul0Silva/Introducao-ao-Numpy/assets/79770252/73f9e714-c94f-4fdb-ab46-0d27576e6d73)
 
